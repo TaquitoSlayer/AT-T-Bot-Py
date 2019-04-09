@@ -18,4 +18,4 @@ Worth noting, zip and zip_ship are zip code for billing and shipping respectivel
 
 oh ya, run main.py when you're done editing config.json.
 
-## Follow me on Twitter @TaquitoSLayer
+## Follow me on Twitter @TaquitoSlayer - http://twitter.com/taquitoslayer
