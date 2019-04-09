@@ -1,0 +1,32 @@
+{
+	"profile1": {
+		"fname": "Taquito",
+		"lname": "Slayer",
+		"mm": "03",
+		"yyyy": "2023",
+		"cc_num": "4859123412348117",
+		"cvv": "250",
+		"zip": "34249",
+		"ship_name": "Taquito Slayer",
+		"address": "Funko Lane",
+		"city": "New York",
+		"zip_ship": "34249",
+		"state": "FL",
+		"email": "bobdiggler@diggler.com"
+	},
+	"profile2": {
+		"fname": "Taquito",
+		"lname": "Slayer",
+		"mm": "03",
+		"yyyy": "2023",
+		"cc_num": "4859123412348117",
+		"cvv": "250",
+		"zip": "34249",
+		"ship_name": "Taquito Slayer",
+		"address": "Funko Town",
+		"city": "New York",
+		"zip_ship": "34249",
+		"state": "FL",
+		"email": "bobdiggler@diggler.com"
+	}
+}
