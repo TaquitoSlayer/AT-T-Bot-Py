@@ -16,4 +16,6 @@ If you want to run multiple "tasks", just add a comma, and copy and paste the ne
 
 Worth noting, zip and zip_ship are zip code for billing and shipping respectively.
 
+oh ya, run main.py when you're done editing config.json.
+
 ## Follow me on Twitter @TaquitoSLayer
