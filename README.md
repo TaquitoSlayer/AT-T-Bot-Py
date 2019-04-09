@@ -1,7 +1,7 @@
 # AT&T-Bot-Py
 
 A bot written in Python3 in hopes that you cop your Funko POP!
-Making this public in hopes that everyone either gets one for personal, or a reseller gets one and ruins the market by selling for $1 profit fees ;)
+Making this public in hopes that everyone either gets one for personal, or a reseller gets one and ruins the market by selling for $1 profit after fees ;)
 
 ## Installation
 Make sure you have Python3.6 or above installed on your computer, followed by installing the requirements.txt
